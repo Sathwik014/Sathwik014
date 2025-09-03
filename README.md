@@ -26,15 +26,6 @@ All my work follows the same philosophy: **plan → build → refine → share**
 
 ---
 
-### 📂 My Repositories  
-<p align="left">
-  <a href="https://github.com/Sathwik014?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sathwik014&repo=Blogs-Padlo&theme=radical" /></a>
-  <a href="https://github.com/Sathwik014?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sathwik014&repo=ML-Learning-Plan&theme=radical" /></a>
-  <a href="https://github.com/Sathwik014?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sathwik014&repo=Portfolio-Website&theme=radical" /></a>
-</p>  
-
----
-
 ### 🌍 Connect with Me
 - 💻 GitHub: [Sathwik014](https://github.com/Sathwik014)  
 - 🔗 LinkedIn: [Sathwik Vaddepally](https://www.linkedin.com/in/sathwik-vaddepally)  
